@@ -15,4 +15,3 @@ sudo apt-get autoremove
 // To see a list of packages you have installed from the MySQL APT repository, use the following command:
 dpkg -l | grep mysql | grep ii
 ```
-
